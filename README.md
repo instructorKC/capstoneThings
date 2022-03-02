@@ -16,7 +16,6 @@
 2. How to get data
 3. How to use data
 4. How the data will be displayed
-5. 3rd Party API calls (depends on api)
 
 
 **HTML/CSS**
@@ -24,6 +23,7 @@
 2. Structure/Layout
 3. UI
 4. Color
+5. 3rd Party API calls (depends on api)
 
 Add Testing (maybe for extra mile)
 	
