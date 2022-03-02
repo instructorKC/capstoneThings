@@ -1,7 +1,5 @@
 # capstoneThings
 
-Write Down Features What will the user be able to do
-Break down the features into small components
 
 **Database**
 1. Model
