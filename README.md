@@ -4,6 +4,7 @@ Write Down Features What will the user be able to do
 Break down the features into small components
 
 Database
+<br>
 	Model
 	Queries
 Your Back End Routes
